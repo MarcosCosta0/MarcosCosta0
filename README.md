@@ -65,14 +65,6 @@ Meu nome é Marcos Vinicius, tenho 23 anos e sou natural de Brasília. Iniciei m
 />
 <img 
     align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
     alt="React"
     title="React" 
     width="30px" 
@@ -81,59 +73,11 @@ Meu nome é Marcos Vinicius, tenho 23 anos e sou natural de Brasília. Iniciei m
 />
 <img 
     align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Bootstrap"
     title="Bootstrap" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
 />
 <img 
     align="left" 
@@ -151,7 +95,38 @@ Meu nome é Marcos Vinicius, tenho 23 anos e sou natural de Brasília. Iniciei m
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
+<img 
+    align="left" 
+    alt="Django" 
+    title="Django"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" 
+/>
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="SQL" 
+    title="SQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" 
+/>
 <br/>
 <br/>
 
@@ -163,14 +138,14 @@ Meu nome é Marcos Vinicius, tenho 23 anos e sou natural de Brasília. Iniciei m
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=MarcosCosta0&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosCosta0&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" 
   />
 
 </p>
