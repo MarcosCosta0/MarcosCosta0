@@ -102,7 +102,7 @@ Meu nome é Marcos Vinicius, tenho 23 anos e sou natural de Brasília. Iniciei m
 
 ### 📊 Estatísticas
 
-<p>
+<p align="left">
   <img 
     align="left" 
     alt="GitHub Stats" 
