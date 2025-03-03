@@ -112,10 +112,9 @@ Meu nome é Marcos Vinicius, tenho 23 anos e sou natural de Brasília. Iniciei m
   />
 
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosCosta0&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosCosta0&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" 
   />
-
 </p>
